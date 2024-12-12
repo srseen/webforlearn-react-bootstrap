@@ -1,15 +1,12 @@
+import Logo from "../../assets/Logo.svg";
+
 const Navbar = () => {
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            <img
-              src="/webforlearn-react-bootstrap/src/assets/Logo.svg"
-              alt="SR_Dev"
-              width="50"
-              height="44"
-            />
+            <img src={Logo} alt="SR_Dev" width="50" height="44" />
           </a>
           <button
             className="navbar-toggler"
