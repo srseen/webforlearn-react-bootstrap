@@ -1,9 +1,5 @@
 import WebVersion1 from "../../assets/WebVersion1.svg";
 import WebVersion2 from "../../assets/WebVersion2.svg";
-import WebVersion3 from "../../assets/WebVersion3.svg";
-import WebVersion4 from "../../assets/WebVersion4.svg";
-import WebVersion5 from "../../assets/WebVersion5.svg";
-import WebVersion6 from "../../assets/WebVersion6.svg";
 
 const Article = () => {
   return (
@@ -86,7 +82,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src={WebVersion3}
+                  src={WebVersion1}
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -123,7 +119,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src={WebVersion4}
+                  src={WebVersion2}
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -159,7 +155,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src={WebVersion5}
+                  src={WebVersion1}
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -195,7 +191,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src={WebVersion6}
+                  src={WebVersion2}
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
