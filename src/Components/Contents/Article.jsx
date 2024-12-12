@@ -7,7 +7,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src="/src/assets/WebVersion1.svg"
+                  src="/webforlearn-react-bootstrap/src/assets/WebVersion1.svg"
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -43,7 +43,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src="/src/assets/WebVersion2.svg"
+                  src="/webforlearn-react-bootstrap/src/assets/WebVersion2.svg"
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -79,7 +79,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src="/src/assets/WebVersion1.svg"
+                  src="/webforlearn-react-bootstrap/src/assets/WebVersion1.svg"
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -116,7 +116,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src="/src/assets/WebVersion2.svg"
+                  src="/webforlearn-react-bootstrap/src/assets/WebVersion2.svg"
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -152,7 +152,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src="/src/assets/WebVersion1.svg"
+                  src="/webforlearn-react-bootstrap/src/assets/WebVersion1.svg"
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"
@@ -188,7 +188,7 @@ const Article = () => {
             <div className="col">
               <div className="card shadow-sm">
                 <img
-                  src="/src/assets/WebVersion2.svg"
+                  src="/webforlearn-react-bootstrap/src/assets/WebVersion2.svg"
                   className="d-block mx-lg-auto img-fluid"
                   alt="Bootstrap Themes"
                   width="700"

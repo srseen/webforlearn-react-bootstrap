@@ -5,7 +5,7 @@ const Navbar = () => {
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
             <img
-              src="/src/assets/Logo.svg"
+              src="/webforlearn-react-bootstrap/src/assets/Logo.svg"
               alt="SR_Dev"
               width="50"
               height="44"

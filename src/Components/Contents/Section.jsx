@@ -1,12 +1,11 @@
 const Section = () => {
   return (
     <>
-      {" "}
       <div className="container col-xxl-8 px-4 py-5">
         <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
           <div className="col-10 col-sm-8 col-lg-6">
             <img
-              src="/src/assets/WebVersion1.svg"
+              src="/webforlearn-react-bootstrap/src/assets/WebVersion1.svg"
               className="d-block mx-lg-auto img-fluid"
               alt="Bootstrap Themes"
               width="700"
